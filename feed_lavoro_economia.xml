@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+    <title>Brief Giornaliero - Lavoro & Economia</title>
+    <link>https://tuo-username.github.io/rss-brief/feed_lavoro_economia.xml</link>
+    <description>Notizie aggiornate su lavoro, economia, finanza, startup e industria</description>
+    <language>it-it</language>
+    <pubDate>Tue, 10 Jun 2025 12:28:10 </pubDate>
+    
+    <item>
+        <title>Occupazione stabile ad aprile</title>
+        <link>https://www.corriere.it/economia/lavoro/occupazione-stabile-aprile</link>
+        <description>Secondo l’ISTAT, ad aprile 2025 ci sono 24,2 milioni di occupati, con un aumento di 282.000 unità rispetto all’anno precedente.</description>
+        <pubDate>Tue, 10 Jun 2025 08:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Sciopero Poste Italiane</title>
+        <link>https://www.corriere.it/economia/lavoro/sciopero-poste-italiane</link>
+        <description>Oggi sciopero nazionale. A rischio pensioni, bollettini e altri servizi essenziali.</description>
+        <pubDate>Tue, 10 Jun 2025 08:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Cassa integrazione in aumento</title>
+        <link>https://www.corriere.it/economia/lavoro/cassa-integrazione-aumento</link>
+        <description>Le ore di cassa integrazione sono cresciute fino al +233% nel primo trimestre, soprattutto nel Nord industriale. Le cause principali: salari stagnanti e incertezza economica globale.</description>
+        <pubDate>Tue, 10 Jun 2025 08:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Aumenti nella PA</title>
+        <link>https://www.corriere.it/economia/lavoro/aumenti-pa</link>
+        <description>I dirigenti pubblici riceveranno aumenti medi di 582 euro, con punte fino a 1.000 euro.</description>
+        <pubDate>Tue, 10 Jun 2025 08:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Dazi USA-Cina</title>
+        <link>https://www.reuters.com/world/us-china-tariffs</link>
+        <description>Trump ha firmato un ordine esecutivo che alza i dazi su acciaio e alluminio al 50%. L’Europa teme ripercussioni sulle esportazioni.</description>
+        <pubDate>Tue, 10 Jun 2025 08:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+        <title>Mercati finanziari</title>
+        <link>https://www.reuters.com/markets/financial-markets</link>
+        <description>La Borsa di Tokyo è in rialzo (+0,8%) grazie a uno yen debole. I future europei sono positivi, ma restano le incertezze sui dazi e i dati macroeconomici.</description>
+        <pubDate>Tue, 10 Jun 2025 08:00:00 +0000</pubDate>
+    </item>
+</channel>
+</rss>
